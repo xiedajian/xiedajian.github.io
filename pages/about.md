@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: 九九叔的github之家
-keywords: JiuJiuShu, 九九叔
+description: 谢大见的github之家
+keywords: xiedajian, 谢大见
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是九九叔。
-
-坚持就是胜利。
-
-爱自己，爱别人，爱生活。
+on the way
 
 ## 联系
 

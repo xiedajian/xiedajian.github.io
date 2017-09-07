@@ -1,10 +1,11 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - Php
+      - Javascript
+      - Typescript
+      - Angular
 
 - name: Mobile Developer Keywords
   keywords:
       - Android
+      - ionic

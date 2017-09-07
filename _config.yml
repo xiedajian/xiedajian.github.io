@@ -4,10 +4,10 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 九九叔
-subtitle: 九九叔的github之家
-description: 九九叔的github之家
-keywords: 九九叔, JiuJiuShu, jjslogin, JiuJiuShu
+title: Hello Man
+subtitle: 谢大见的github之家
+description: 谢大见的github之家
+keywords: xiedajian, ionic, angular, typescript
 favicon: /favicon.ico
 timezone: Asia/Shenzhen
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: JiuJiuShu
+author: xiedajian
 organization: OPPO, Inc.
 organization_url: http://www.oppo.com
-github_username: wenfengtou
-location: Shenzhen, China
-email: qianmayi@gmail.com
+github_username: xiedajian
+location: Zhengzhou, China
+email: 172265972@qq.com
 
 # ---------------- #
 #    Navigation    #
