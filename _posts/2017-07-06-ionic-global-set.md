@@ -6,7 +6,7 @@ description: ionic3没有全局变量，怎么自定义全局变量
 keywords: js, ionic, cordova, hybird
 ---
 
-##### 官方文档传送门：http://ionicframework.com/docs/api/config/Config/         
+##### [官方文档传送门：](http://ionicframework.com/docs/api/config/Config/)         
 
 ![image](/images/posts/ionic/global-set-config.png)
 

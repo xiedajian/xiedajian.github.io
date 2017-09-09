@@ -7,7 +7,7 @@ keywords: hook, ionic, cordova, hybird
 ---
 
 在使用ionic做项目的时候，发现 项目存在一个hooks文件夹，查找相关资料做个简单记录
-官方文档：http://cordova.apache.org/docs/en/7.x/guide/appdev/hooks/index.html
+[官方文档：](http://cordova.apache.org/docs/en/7.x/guide/appdev/hooks/index.html)
 
 ###介绍：
 Cordova Hooks代表特殊脚本，可以由应用程序和插件开发人员添加，甚至可以通过自己的构建系统来自定义cordova命令。

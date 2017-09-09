@@ -12,7 +12,7 @@ Angular
 
 钩子目的和时机
 
-官方文档：https://angular.cn/docs/ts/latest/guide/lifecycle-hooks.html
+[官方文档：](https://angular.cn/docs/ts/latest/guide/lifecycle-hooks.html)
 
 ![image](/images/posts/ionic/ng-page-hooks.png)
 
@@ -25,7 +25,7 @@ ionic2/3的生命周期钩子：
 
 官方文档地址在这里。
 
-http://ionicframework.com/docs/api/navigation/NavController/
+[ionic](http://ionicframework.com/docs/api/navigation/NavController/)
 ![image](/images/posts/ionic/ionic-page-hooks.png)
 
 页面周期
@@ -51,4 +51,4 @@ ionViewDidUnload在页面销毁和页面中有元素移除之后执行的事件�
 
 比如我自己的项目中用到的，禁止页面后退（业务需要，必须向下进行）
 
-https://github.com/xiedajian/ipvpKmfApp2.0/blob/master/src/pages/TrackingModule/tracking/tracking.ts
+[GitHub项目](https://github.com/xiedajian/ipvpKmfApp2.0/blob/master/src/pages/TrackingModule/tracking/tracking.ts)
