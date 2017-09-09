@@ -100,13 +100,13 @@ npm help    //查看全部命令
 在安装最新版本ionic3.4.2之后，ionic v3CLI发生了一些变化：
 
 参照：https://docs.google.com/document/d/1r8nTAaJ5hLIJ1DCwBozU-JGV480Du0xCMIg2dj3JRQo/edit#
-![image](https://github.com/xiedajian/xiedajian.github.io/tree/master/images/posts/ionic/ionic-CLI.png)
+![image](/images/posts/ionic/ionic/ionic-CLI.png)
 
 CLI
 本次版本从ionic2.2.1升级到ionic3.3，CLI升级到3.4.0,
 
 版本记录：
-![image](https://github.com/xiedajian/xiedajian.github.io/tree/master/images/posts/ionic/ionic-version-info.png)
+![image](/images/posts/ionic/ionic-version-info.png)
 
 版本记录
 新建项目

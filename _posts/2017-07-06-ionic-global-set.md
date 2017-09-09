@@ -8,7 +8,7 @@ keywords: js, ionic, cordova, hybird
 
 ##### 官方文档传送门：http://ionicframework.com/docs/api/config/Config/         
 
-![image](https://github.com/xiedajian/xiedajian.github.io/blob/master/images/posts/ionic/global-set-config.png)
+![image](/images/posts/ionic/global-set-config.png)
 
 选项表
 项目中实际运行：
