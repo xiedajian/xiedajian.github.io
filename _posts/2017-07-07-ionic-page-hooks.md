@@ -14,7 +14,7 @@ Angular
 
 官方文档：https://angular.cn/docs/ts/latest/guide/lifecycle-hooks.html
 
-
+![image](https://github.com/xiedajian/xiedajian.github.io/blob/master/images/posts/ionic/ng-page-hooks.png)
 
 
 使用：export class demo  implementsOnInit,OnDestroy{}
@@ -26,7 +26,7 @@ ionic2/3的生命周期钩子：
 官方文档地址在这里。
 
 http://ionicframework.com/docs/api/navigation/NavController/
-
+![image](https://github.com/xiedajian/xiedajian.github.io/blob/master/images/posts/ionic/ionic-page-hooks.png)
 
 页面周期
 事件名称事件说明
