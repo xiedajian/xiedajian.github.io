@@ -7,7 +7,11 @@ keywords: js, artTemplate, 命名规范
 ---
 
 ### 前言
+
+
 最近jquery用的比较多，在遍历操作dom的时候，深感拼接字符串的痛苦，所有找了一个前端的模板引擎来动态编译模板。
+
+
 #### artTemplate
 地址：https://aui.github.io/art-template/
 github：https://github.com/aui/art-template
