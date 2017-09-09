@@ -5,8 +5,8 @@ baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
 title: Hello Man
-subtitle: 谢大见的github之家
-description: 谢大见的github之家
+subtitle: xiedajian's github
+description: Hello Man
 keywords: xiedajian, ionic, angular, typescript
 favicon: /favicon.ico
 timezone: Asia/Shenzhen
@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: xiedajian
-organization: OPPO, Inc.
-organization_url: http://www.oppo.com
+organization: Mine, Inc.
+organization_url: http://www.wangyudong.cf
 github_username: xiedajian
 location: Zhengzhou, China
 email: 172265972@qq.com
@@ -37,7 +37,7 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: 收藏
 
   -
     href: /links/
