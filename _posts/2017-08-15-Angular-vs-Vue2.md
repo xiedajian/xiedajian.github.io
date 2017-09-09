@@ -7,7 +7,7 @@ keywords: js, Angular2, Vue2
 ---
 
 
-作者介绍：李旸，美团点评前端工程师，3 年 Web 前端开发经验，现在是美团点评点餐团队的一员。
+##### 作者介绍：李旸，美团点评前端工程师，3 年 Web 前端开发经验，现在是美团点评点餐团队的一员。
 
 
 *"Come, and take choice of all my library, And so beguile thy sorrow." —— William Shakespeare, Titus Andronicus*
