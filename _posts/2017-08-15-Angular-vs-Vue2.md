@@ -1,12 +1,14 @@
 ---
 layout: post
-title: [转] 聊聊技术选型 - Angular2 vs Vue2
+title: [转]聊聊技术选型- Angular2 vs Vue2
 categories: js
-description: Angular2 vs Vue2
+description: Angular2 vs Vue2对比
 keywords: js, Angular2, Vue2
 ---
 
+
 作者介绍：李旸，美团点评前端工程师，3 年 Web 前端开发经验，现在是美团点评点餐团队的一员。
+
 
 *"Come, and take choice of all my library, And so beguile thy sorrow." —— William Shakespeare, Titus Andronicus*
 为项目进行框架级别的技术选型，就类似为篮球队量身定制战术，选择一个适合开发团队的规模和团队成员的技术栈和能力，针对业务和项目，能帮助团队赢得更多的技术，是每个软件项目能够顺利推进的先决条件，也是业务常青的有效的保障。这里，我们来聊聊为一个新的前端项目挑选一个合适的技术模型，对比在去年都发布了 release 版本的 Angular2 和 Vue2（以下如没有特别指明，Angular 即为 Angular2，Vue 即为 Vue2），并不作鱼和熊掌哪个更美味的选择，而是站在技术本身，对应项目和开发人员的角度，帮助工程师在所处的业务场景下挑选最好的武器。
