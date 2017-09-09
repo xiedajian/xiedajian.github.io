@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nodejs中exports与module.exports的区别
-categories: Nodejs
+categories: Node.js
 description: exports与module.exports的区别。
 keywords: Nodejs, exports, module.exports
 ---
