@@ -6,14 +6,14 @@ description: artTemplate入门demo。
 keywords: js, artTemplate, 命名规范
 ---
 
-#前言
+### 前言
 最近jquery用的比较多，在遍历操作dom的时候，深感拼接字符串的痛苦，所有找了一个前端的模板引擎来动态编译模板。
-#artTemplate
+#### artTemplate
 地址：https://aui.github.io/art-template/
 github：https://github.com/aui/art-template
-关于性能：
+##### 关于性能：
 ![image.png](http://upload-images.jianshu.io/upload_images/4263048-9939db23d23e490d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-#模板
+#### 模板
 art-template 同时支持两种模板语法。标准语法可以让模板更容易读写；原始语法具有强大的逻辑处理能力。
 **标准语法**
 ```
@@ -29,7 +29,7 @@ art-template 同时支持两种模板语法。标准语法可以让模板更容�
 ```
 
 原始语法兼容 [EJS](http://ejs.co/)、[Underscore](http://underscorejs.org/#template)、[LoDash](https://lodash.com/docs/#template) 模板。
-#渲染模板
+#### 渲染模板
 ```
 var template = require('art-template');
 var html = template(__dirname + '/tpl-user.art', {
@@ -39,7 +39,7 @@ name: 'aui'
 });
 ```
 
-#[](https://aui.github.io/art-template/docs/#核心方法)核心方法
+##### [](https://aui.github.io/art-template/docs/#核心方法)核心方法
 ```
 // 基于模板名渲染模板
 template(filename, data);
@@ -52,7 +52,7 @@ template.render(source, data, options);
 ```
 
 上面是官方的介绍，下面一个自己做的简单例子：
-#demo
+##### demo
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -164,7 +164,7 @@ template.render(source, data, options);
     </body>
 </html>
 ```
-#外部模板文件 alert_template.html
+##### 外部模板文件 alert_template.html
  ```
 
 <!--模拟的弹窗-->
@@ -176,7 +176,7 @@ template.render(source, data, options);
         </p>
     </div>
 ```
-#外部模板文件对应的css alert_template.css
+##### 外部模板文件对应的css alert_template.css
 ```
     /*模拟弹窗*/
     
@@ -237,4 +237,4 @@ template.render(source, data, options);
         border-top: 1px solid #C0C0C0;
     }
 ```
-demo的github地址：https://github.com/xiedajian/artTemplateDemo/blob/master/template.html
+[demo的github地址：](https://github.com/xiedajian/artTemplateDemo/blob/master/template.html)
