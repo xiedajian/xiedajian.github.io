@@ -1,5 +1,8 @@
 - name: xiedajian简书
   url: http://www.jianshu.com/u/17065b4870ba
 
+- name: 邮箱
+  string: 172265972@qq.com
+
 - name: 码志
   url: http://mazhuang.org
