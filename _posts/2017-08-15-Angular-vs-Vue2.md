@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]聊聊技术选型- Angular2 vs Vue2
+title: 聊聊技术选型- Angular2 vs Vue2[转]
 categories: js
 description: Angular2 vs Vue2对比
 keywords: js, Angular2, Vue2
