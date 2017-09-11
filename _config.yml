@@ -47,6 +47,10 @@ navs:
     href: /about/
     label: 关于
 
+  -
+    href: /_storelib/index.html
+    label: 关于
+
 # ---------------- #
 #       RSS        #
 # ---------------- #
