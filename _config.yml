@@ -48,8 +48,8 @@ navs:
     label: 关于
 
   -
-    href: /_storelib/index.html
-    label: 关于
+    href: /me/
+    label: 简历
 
 # ---------------- #
 #       RSS        #
