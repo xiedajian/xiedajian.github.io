@@ -40,10 +40,6 @@ navs:
     label: 收藏
 
   -
-    href: /links/
-    label: 链接
-
-  -
     href: /about/
     label: 关于
 
