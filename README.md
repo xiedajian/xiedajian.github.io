@@ -17,7 +17,7 @@
 
 **[在线预览 &rarr;](https://xiedajian.github.io/)**
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](/images/blog-sreen.png)
 
 ## Fork 指南
 
