@@ -61,3 +61,9 @@ app.module.ts中修改配置
             modalLeave: 'modal-slide-out',
         })
 ```
+
+
+#### 4.使用ionic3新特性懒加载的时候代码没有出错，但是却报错can't find 新建的module
+
+
+ Google了一下，好像是cnpm的锅,我用重新用npm测试了一下,没有问题了,看来真是cnpm的锅,论翻墙的重要性！
