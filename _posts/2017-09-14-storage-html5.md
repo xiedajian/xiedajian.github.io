@@ -5,7 +5,7 @@ categories: Node.js
 description: Html5及混编App本地数据存储
 keywords: Html5, ionic, hybird.storage
 ---
- ###### 前言
+###### 前言
 最近想为女朋友写一个记账的app，因为要进行数据分类统计，得出每个月，每年的开销，以及各种类型支付所占的比例，且需要保证App能够离线使用又可以换机使用，就涉及到了本地数据的存储和数据与服务器的数据同步。       
 
 本文介绍本地数据存储的选型。简单总结一些查询到的关于本地数据存储的技术。
@@ -50,7 +50,7 @@ keywords: Html5, ionic, hybird.storage
 HTTP Cookie，最初用于在客户端存储会话信息。该标准要求服务器对任意 HTTP 请求发送 Set-Cookie HTTP 头作为响应的一部分，其中包含会话信息。浏览器会存储这样的会话信息，并在这之后，通过为每个请求添加 Cookie HTTP 头将信息发送回服务器。
 ###### 【举例如下】：
 
-![image](../images/posts/js/storage-cookie-header.png)
+![image](/images/posts/js/storage-cookie-header.png)
 
 #####  1.2 使用
 
@@ -73,7 +73,7 @@ document.cookie = 'name=Lucy;expires=' + date.toUTCString();
 ```
 
 
-![image](../images/posts/js/storage-cookie-js-use.png)
+![image](/images/posts/js/storage-cookie-js-use.png)
 
 #####  1.3 访问限制及存储时长
 
@@ -109,7 +109,7 @@ cookie 的 session 不同于 sessionStorage 的 session，cookie 的 session 是
 
 注意：Storage 类型只能存储字符串。非字符串的数据在存储之前会被转换成字符串。
 
-![image](../images/posts/js/webstorage.png)
+![image](/images/posts/js/webstorage.png)
 
 #####  2.1 目的及两个主要目标
 
@@ -136,7 +136,7 @@ cookie 的 session 不同于 sessionStorage 的 session，cookie 的 session 是
 ###### 1) 使用：
 
 
-![image](../images/posts/js/storage-sessionStorage.png)
+![image](/images/posts/js/storage-sessionStorage.png)
 
 ######  2) 访问限制：
 
@@ -241,7 +241,7 @@ indexdb 像 nosql，直接使用 js 方法操作数据。
 
 IndexDB 设计的操作完全是异步的。因此，大多数操作会以请求的方式进行，但这些操作会在后期执行，如果成功则返回结果，如果失败则返回错误。差不多每一次 IndexDB 操作，都需要你注册 onerror 或 onsuccess 事件处理程序，以确保适当地处理结果。
 
-![image](../images/posts/js/storage-IndexDB.png)
+![image](/images/posts/js/storage-IndexDB.png)
 
 打开数据库时，实质上返回了一个DB对象，该对象存在于 result 中。
 
