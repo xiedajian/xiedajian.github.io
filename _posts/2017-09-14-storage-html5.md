@@ -14,7 +14,7 @@ keywords: Html5, ionic, hybird, storage
 ###### Chrome：
 
 
-
+![image](/images/posts/js/storage-clipboard.png)
 
 ###### 前端离线存储目前支持 Cookie、localStorage、sessionStorage、IndexedDB、Web SQL Database以及FileSystem.
 
