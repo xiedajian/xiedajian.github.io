@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 前端数据本地存储介绍
-categories: Node.js
+categories: js
 description: Html5及混编App本地数据存储
-keywords: Html5, ionic, hybird.storage
+keywords: Html5, ionic, hybird, storage
 ---
 ###### 前言
 最近想为女朋友写一个记账的app，因为要进行数据分类统计，得出每个月，每年的开销，以及各种类型支付所占的比例，且需要保证App能够离线使用又可以换机使用，就涉及到了本地数据的存储和数据与服务器的数据同步。       
