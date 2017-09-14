@@ -96,5 +96,6 @@ export class HomePage {
 
 ![image.png](http://upload-images.jianshu.io/upload_images/4263048-30fc4a898412b4c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-Highcharts：https://www.highcharts.com/
-案例来自官方：http://blog.jianshukeji.com/create-chart-in-ionic-using-highcharts/
+[Highcharts：](https://www.highcharts.com)        
+
+[案例来自官方：](http://blog.jianshukeji.com/create-chart-in-ionic-using-highcharts)
