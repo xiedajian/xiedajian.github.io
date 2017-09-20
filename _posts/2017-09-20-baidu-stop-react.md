@@ -2,9 +2,13 @@
 layout: post
 title: 百度WordPress等公司停止使用 React
 categories: js
-description:百度WordPress等公司停止使用 React
+description: 百度WordPress等公司停止使用 React
 keywords: react ,angular
 ---
+
+         
+
+
 
 react事件鼎沸起来，这使得更多的开发者又转向angular4.x。angular4.x继承了angularjs1.x的优点，吸收了react 的优点。是一款优秀的框架。    
 
