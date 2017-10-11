@@ -322,8 +322,12 @@ p{
 /*! 重要注释！*/
 ```
 
-完整的案例：[https://github.com/xiedajian/jsGrocery/blob/master/Sass%2CScss-demo/index.scss](https://github.com/xiedajian/jsGrocery/blob/master/Sass%2CScss-demo/index.scss)
-编译后：[https://github.com/xiedajian/jsGrocery/blob/master/Sass%2CScss-demo/index.css](https://github.com/xiedajian/jsGrocery/blob/master/Sass%2CScss-demo/index.css)
-参考： 
-[阮一峰老师的SASS用法指南](http://www.ruanyifeng.com/)
-[SASS官方参考手册](http://sass.bootcss.com/docs/sass-reference/)
+完整的案例：[https://github.com/xiedajian/jsGrocery/blob/master/Sass%2CScss-demo/index.scss](https://github.com/xiedajian/jsGrocery/blob/master/Sass%2CScss-demo/index.scss)       
+
+编译后：[https://github.com/xiedajian/jsGrocery/blob/master/Sass%2CScss-demo/index.css](https://github.com/xiedajian/jsGrocery/blob/master/Sass%2CScss-demo/index.css)       
+
+参考:       
+
+[阮一峰老师的SASS用法指南](http://www.ruanyifeng.com/)        
+
+[SASS官方参考手册](http://sass.bootcss.com/docs/sass-reference/)       
