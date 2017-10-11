@@ -24,10 +24,10 @@ Sass 是对 CSS 的扩展，让 CSS 语言更强大、优雅。 它允许你使�
 ```
 使用 sass-convert 命令行工具
 
-# 将 Sass 转换为 SCSS
+ 将 Sass 转换为 SCSS
 $ sass-convert style.sass style.scss
 
-# 将 SCSS 转换为 Sass
+ 将 SCSS 转换为 Sass
 $ sass-convert style.scss style.sass
 ```
 
