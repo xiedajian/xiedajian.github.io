@@ -50,6 +50,17 @@ sass --watch input.scss:output.css
 sass --watch app/sass:public/stylesheets
 ```
 使用 sass --help 可以列出完整的帮助文档。
+SASS提供四个[编译风格](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#output_style)的选项：
+```
+　　* nested：嵌套缩进的css代码，它是默认值。
+　　* expanded：没有缩进的、扩展的css代码。
+　　* compact：简洁格式的css代码。
+　　* compressed：压缩后的css代码。
+```
+生产环境当中，一般使用最后一个选项。
+```
+sass --style compressed test.sass test.css
+```
 
 ### 基本用法
 SASS的官方网站，提供了一个[在线转换器](http://sass-lang.com/try.html)。可以进行练习。
