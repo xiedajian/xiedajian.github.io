@@ -22,13 +22,13 @@ Sass 是对 CSS 的扩展，让 CSS 语言更强大、优雅。 它允许你使�
 - Sass （缩排语法）， 提供了一种更简洁的 CSS 书写方式。 它不使用花括号，而是通过缩排的方式来表达选择符的嵌套层级，I 而且也不使用分号，而是用换行符来分隔属性。 很多人认为这种格式比 SCSS 更容易阅读，书写也更快速。 缩排语法具有 Sass 的所有特色功能， 虽然有些语法上稍有差异； 这些差异在{file:INDENTED_SYNTAX.md 所排语法参考手册}中都有描述。 使用此种语法的样式表文件需要以 .sass 作为扩展名
 ###### 两种语法相互转化
 ```
-使用 sass-convert 命令行工具
+ //使用 sass-convert 命令行工具
 
- 将 Sass 转换为 SCSS
-$ sass-convert style.sass style.scss
+ //将 Sass 转换为 SCSS
+ sass-convert style.sass style.scss
 
- 将 SCSS 转换为 Sass
-$ sass-convert style.scss style.sass
+ //将 SCSS 转换为 Sass
+ sass-convert style.scss style.sass
 ```
 
 ### 使用 Sass
