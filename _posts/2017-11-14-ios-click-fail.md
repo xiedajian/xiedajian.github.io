@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  iOS下的点击事件失效解决方法
-categories: chrome
+categories: ios
 description:  iOS下的通过事件代理的点击事件失效
 keywords: ios , click
 ---
