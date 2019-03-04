@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://louyi.xyz
 date_format: "ordinal"
-title: Hello Man
+title: Hello JavaScript
 subtitle: xiedajian's github
 description: Hello Man
-keywords: xiedajian, ionic, angular, typescript
+keywords: xiedajian, JavaScript, JS, NodeJs
 favicon: /favicon.ico
 timezone: Asia/Shenzhen
 encoding: "utf-8"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: xiedajian
 organization: Mine, Inc.
-organization_url: http://www.wangyudong.cf
+organization_url: http://louyi.xyz
 github_username: xiedajian
 location: Zhengzhou, China
 email: 172265972@qq.com
