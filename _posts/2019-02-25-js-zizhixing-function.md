@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  JS自执行函数，匿名函数
-categories: ks
+categories: js
 description:  JS自执行函数，匿名函数
 keywords: JS自执行函数 , 匿名函数
 ---
