@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转] RESTful API
+title: RESTful API
 categories: web
 description:  RESTful API接口规范
 keywords: restful, rest
@@ -84,12 +84,12 @@ RESTful API 是目前比较成熟的一套网络应用程序的API设计理论�
 WEB服务接收与返回的互联网资源类型
 
 客户端与服务端进行交互响应时，需要规定双方能够接受何种类型的媒体表现形式，最常见的以application开头的媒体格式类型有：
-
+```
 *   application/json： JSON数据格式
 *   application/xhtml+xml：XHTML格式
 *   application/xml： XML数据格式
 *   application/atom+xml：Atom XML聚合格式    
-
+```
 
 
  部分小白看到这儿可能就会迷糊：RESTful Api 设计与上面提到的资源类型有何关系？
@@ -133,11 +133,11 @@ https://api.example.com/v1/
 在RESTful架构中，每个网址代表一种资源，所以网址中不能有动词，只能有名词，而且所用的名词往往与数据库的表格名对应。一般来说，数据库中的表都是同种记录的”集合"（collection），所以API中的名词也应该使用复数。
 
 举例来说，有一个API提供动物园（zoo）的信息，还包括各种动物和雇员的信息，则它的路径应该设计成下面这样。
-
+```
 *   https://api.example.com/v1/zoos
 *   https://api.example.com/v1/animals
 *   https://api.example.com/v1/employees
-
+```
 3、找到特定领域的媒体类型，根据特定的领域来设计媒体类型
 
 在《RESTful Web APIs》一书中提及到当你想要发布一个API的时候，首先要做的就是找到一个已有的特定领域特定设计。重复造轮子是没有意义的。
