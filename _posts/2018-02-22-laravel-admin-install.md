@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  laravel-admin安装
-categories: ios
+categories: php
 description:  laravel-admin安装
 keywords: laravel , laravel-admin
 ---
