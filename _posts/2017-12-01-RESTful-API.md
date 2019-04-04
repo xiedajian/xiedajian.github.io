@@ -1,8 +1,8 @@
 ---
 layout: post
-title: RESTful API
+title: RESTfulAPI
 categories: web
-description:  RESTful API接口规范
+description:  RESTfulAPI接口规范
 keywords: restful, rest
 ---
 
