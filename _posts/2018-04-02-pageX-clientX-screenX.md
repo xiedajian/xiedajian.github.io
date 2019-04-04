@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  js事件对象Event获取pageX,clientX,screenX,offsetX,
-categories: ios
+categories: js
 description:  js事件对象Event获取pageX,clientX,screenX,offsetX,
 keywords: pageX , clientX
 ---

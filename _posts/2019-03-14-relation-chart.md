@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  绘制人物关系图谱的npm包
-categories: ios
+categories: d3.js
 description:  绘制人物关系图谱的npm包
 keywords: 人物关系图谱 , relation
 ---
